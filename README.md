@@ -15,6 +15,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2594848.svg)][codereference]
 [![paper](https://img.shields.io/badge/DOI-10.1080%2F10556788.2020.1808977-blue)][paper]
 
+
 The [`cocopp`](https://numbbo.github.io/coco-doc/apidocs/cocopp/cocopp.html) Python package
 implements the postprocess part of [COCO: A Platform for Comparing Continuous Optimizers in a Black-Box Setting][paper], comparing not only continuous optimisers.
 The package uses data generated with the [COCO framework](https://coco-platform.org) and produces output figures and tables in `html` format and for inclusion into `LaTeX` documents.
